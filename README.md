@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" width="480" height="88" alt="Junho Kim · Software Engineer · Thoughtful interfaces. Reliable services."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" width="480" alt="Junho Kim · Software Engineer · Thoughtful interfaces. Reliable services."></picture>
 
 사용자 경험과 데이터 흐름을 함께 설계합니다.
 
